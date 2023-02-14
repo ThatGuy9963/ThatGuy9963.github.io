@@ -1,0 +1,125 @@
+body{
+  background-color: dimgray;
+
+}
+
+h1{
+  text-align: center;
+  color: navy;
+  font-size: 40px;
+  margin-top: 15px;
+  
+}
+button{
+  color: blueviolet;
+  background-color: black;
+  border-color: navy;
+  border-style:groove;
+  border-width: 7px;
+ 
+}
+
+img{
+  width: 200px;
+  float: left;
+  margin: 7px;
+  border-style: groove;
+  border-width: 10px;
+  border-color: darkblue;
+  border-radius: 16px; 
+  
+  
+  
+  /* margin-bottom: px;*/
+}
+p{
+  font-size: 1px;
+  color:slategray;
+}
+a{
+  color:slategray;
+}
+/*h3{
+  font-family: monospace;
+  font-size: 20px
+}
+*/
+
+/*text styles*/
+.text{
+  color:navy;
+  font-size: 20px;
+  text-align: left;
+  
+}
+
+.plswork{
+  text-align:center;
+}
+
+/* list styles*/
+ul{
+  margin: 7px;
+} 
+
+h3{
+  color: navy;
+  font-size: 22px;
+  font-weight: 100;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
